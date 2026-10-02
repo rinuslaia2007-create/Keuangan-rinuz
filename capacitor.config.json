@@ -1,0 +1,6 @@
+{
+  "appId": "com.rinuz.keuangan",
+  "appName": "Rinuz Keuangan",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
